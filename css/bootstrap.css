@@ -9,9 +9,11 @@ html {
   font-family: sans-serif;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+        background-image:url("assets/wallpaper.jpg");
 }
 body {
   margin: 0;
+
 }
 article,
 aside,
@@ -4998,6 +5000,7 @@ a.thumbnail.active {
 @-webkit-keyframes progress-bar-stripes {
   from {
     background-position: 40px 0;
+     background-image:url("assets/wallpaper.jpg");
   }
   to {
     background-position: 0 0;

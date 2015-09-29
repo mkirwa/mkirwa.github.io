@@ -1,6 +1,8 @@
 /*--------------------
 -----Main Styles------
 ----------------------*/
+
+
 body{
 	font-family: 'Titillium Web', sans-serif;
 	font-size:18px;
@@ -369,6 +371,7 @@ a:focus,
 ------------------------*/
 
 .jumbotron {
+    
     background:#38A5DB;
     color:#fff;
     padding:0;
